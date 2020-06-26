@@ -1,0 +1,84 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1580477667995-2b94f01c9516?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Tadeo Salaviaw",
+      "email": "salaviaw.tadeo@hotmail.com",
+      "birth": 700617600000,
+      "gender": "M",
+      "blood": "O-",
+      "weight": "78",
+      "height": "179"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1548610325-af59423f54bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=683&q=80",
+      "name": "Lucas de Andrade Nogueira",
+      "email": "lucasandrade_52@hotmail.com",
+      "birth": 715132800000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "100",
+      "height": "181"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1503525148566-ef5c2b9c93bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Renato Alves de Melo",
+      "email": "remelo@ibm.com",
+      "birth": 699580800000,
+      "gender": "M",
+      "blood": "A-",
+      "weight": "92",
+      "height": "180"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Clark Kent",
+      "avatar_url": "https://source.unsplash.com/collection/3465564/",
+      "birth": -996883200000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1592925048106
+    },
+    {
+      "id": 2,
+      "name": "Thor Odinson",
+      "avatar_url": "https://images.unsplash.com/photo-1518639401307-b20d68513079?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=748&q=80",
+      "birth": -59323449600000,
+      "gender": "M",
+      "services": "Musculação, Cross-fit",
+      "created_at": 1592925707809
+    },
+    {
+      "id": 3,
+      "name": "Shun de Andrômeda",
+      "avatar_url": "https://images.unsplash.com/photo-1535056992305-dc3a53c22241?ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+      "birth": 437184000000,
+      "gender": "F",
+      "services": "Pilates, Yoga, Fitdance",
+      "created_at": 1593000534841
+    },
+    {
+      "id": 4,
+      "name": "Diana de Themysira",
+      "avatar_url": "https://images.unsplash.com/photo-1574367826667-c239af0e0e9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80",
+      "birth": -908236800000,
+      "gender": "F",
+      "services": "Musculação, Cross-fit",
+      "created_at": 1593011514440
+    },
+    {
+      "id": 5,
+      "name": "Lucas de Andrade Nogueira",
+      "avatar_url": "https://images.unsplash.com/photo-1548610325-af59423f54bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=683&q=80",
+      "birth": 715132800000,
+      "gender": "M",
+      "services": "Soneca",
+      "created_at": 1593111201822
+    }
+  ]
+}
